@@ -1,4 +1,3 @@
-Aquí tienes la explicación sobre los conceptos de **análisis de cuerpo** y **códigos de respuesta HTTP** en Express.js:
 
 # Análisis de Cuerpo y Códigos de Respuesta HTTP en Express
 
